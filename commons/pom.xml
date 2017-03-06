@@ -6,13 +6,13 @@
 
     <parent>
         <groupId>org.jbugkorea</groupId>
-        <artifactId>app-exception-analyzer</artifactId>
+        <artifactId>helloworld-project</artifactId>
         <version>0.1.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>commons</artifactId>
 
-    <name>app-exception-analyzer: commons</name>
+    <name>helloworld-project: commons</name>
 
     <build>
         <finalName>${project.artifactId}</finalName>
